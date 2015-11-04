@@ -111,7 +111,7 @@
                 <level name="ERROR"/>
             </logger>
             <root-logger>
-                <level name="INFO"/>
+                <level name="DEBUG"/>
                 <handlers>
                     <handler name="ASYNC"/>
                 </handlers>
